@@ -1,0 +1,1 @@
+Algoritma Genetik dapat digunakan untuk optimasi algoritma

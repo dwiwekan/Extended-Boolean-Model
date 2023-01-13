@@ -1,0 +1,1 @@
+Optimasi fungsi keanggotaan pada fuzzy
